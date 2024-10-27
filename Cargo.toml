@@ -1,5 +1,5 @@
 [package]
-name = "RustLedger"
+name = "RustChain"
 version = "0.1.0"
 authors = ["Nhathuy1305 <dangnhathuy.work@gmail.com>"]
 include = ["src/*", "sql/*", "README.md", "Cargo.toml"]
